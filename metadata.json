@@ -1,0 +1,7 @@
+{
+  "name": "CyberCombat: AR Duel",
+  "description": "A webcam-based AR fighting game using p5.js and MediaPipe. Play 1vs1 or practice against a virtual dummy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
